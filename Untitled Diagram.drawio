@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-30T08:05:08.940Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="J1DXaOFboKOIXdw-g5BH" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-30T08:16:40.606Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="qLm_3K6YocXk_oGpWHho" version="14.7.3" type="github">
   <diagram id="GtILbTFJ0FTtY-5zLsUg" name="Page-1">
     <mxGraphModel dx="2426" dy="2490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -191,19 +191,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-72PhuZYiqAgGAwzkjjb-78" value="启动发送" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="950" y="900" width="120" height="60" as="geometry" />
+          <mxGeometry x="1690" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-72PhuZYiqAgGAwzkjjb-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-72PhuZYiqAgGAwzkjjb-80" target="-72PhuZYiqAgGAwzkjjb-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-72PhuZYiqAgGAwzkjjb-80" value="&lt;span&gt;redisKey中是否有名单&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="1010" width="280" height="80" as="geometry" />
+          <mxGeometry x="1610" y="220" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-72PhuZYiqAgGAwzkjjb-81" value="拼装发送报文并发送到kafka" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="1140" width="220" height="60" as="geometry" />
+          <mxGeometry x="1640" y="350" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-72PhuZYiqAgGAwzkjjb-84" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="1100" width="20" height="20" as="geometry" />
+          <mxGeometry x="1760" y="310" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
